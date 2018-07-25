@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XScriptLib">
+</Property><Property Name="Solution File" Value="E:\XScriptLib\XScriptLib.sln">
+</Property><Property Name="User Options File" Value="E:\XScriptLib\XScriptLib.suo">
+</Property><Property Name="Date" Value="יום רביעי 28 ספטמבר 2011">
+</Property><Property Name="Time" Value="16:26">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="XScriptLib.sln" Description="File successfully backed up as E:\XScriptLib\Backup\XScriptLib.sln">
+</Event><Event ErrorLevel="0" Project="" Source="XScriptLib.suo" Description="File successfully backed up as E:\XScriptLib\Backup\XScriptLib.suo">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="XScriptLib.csproj" Description="Project file successfully backed up as E:\XScriptLib\Backup\XScriptLib.csproj">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="ArrayProperties\ArrayLength.cs" Description="File successfully backed up as E:\XScriptLib\Backup\ArrayProperties\ArrayLength.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="ArrayProperties\ArrayLevel.cs" Description="File successfully backed up as E:\XScriptLib\Backup\ArrayProperties\ArrayLevel.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="ArrayProperty.cs" Description="File successfully backed up as E:\XScriptLib\Backup\ArrayProperty.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Command.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Command.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Commands\SumArray.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Commands\SumArray.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Exceptions\EndlessException.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Exceptions\EndlessException.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Exceptions\Messages.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Exceptions\Messages.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Exceptions\XLogicException.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Exceptions\XLogicException.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Exceptions\XMParseException.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Exceptions\XMParseException.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Expression Functions\ConvertToInt.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Expression Functions\ConvertToInt.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Expression Functions\Rand.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Expression Functions\Rand.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Expression Functions\SumSeries.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Expression Functions\SumSeries.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="ExprFunction.cs" Description="File successfully backed up as E:\XScriptLib\Backup\ExprFunction.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Helper.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Helper.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="MathFunction.cs" Description="File successfully backed up as E:\XScriptLib\Backup\MathFunction.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="ParseException.cs" Description="File successfully backed up as E:\XScriptLib\Backup\ParseException.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Process.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Process.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Processes\ForProcess.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Processes\ForProcess.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Processes\FunctionProcess.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Processes\FunctionProcess.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Processes\IfProcess.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Processes\IfProcess.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Processes\WhileProcess.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Processes\WhileProcess.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="XArray.cs" Description="File successfully backed up as E:\XScriptLib\Backup\XArray.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="XMParser.cs" Description="File successfully backed up as E:\XScriptLib\Backup\XMParser.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\XScriptLib\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="XSParser.cs" Description="File successfully backed up as E:\XScriptLib\Backup\XSParser.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="XSyntax.cs" Description="File successfully backed up as E:\XScriptLib\Backup\XSyntax.cs">
+</Event><Event ErrorLevel="0" Project="XScriptLib" Source="XScriptLib.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="XScriptLib" Source="XScriptLib.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="XScriptLib.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="XScriptLib.sln" Description="Converted">
+</Event></UpgradeLog>

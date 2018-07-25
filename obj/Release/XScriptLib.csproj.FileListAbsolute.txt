@@ -1,0 +1,20 @@
+C:\Users\ariklekar\Documents\Visual Studio 2010\Projects\XScript2IDE\XScriptLib\bin\Release\XScriptLib.dll
+C:\Users\ariklekar\Documents\Visual Studio 2010\Projects\XScript2IDE\XScriptLib\bin\Release\XScriptLib.pdb
+C:\Users\ariklekar\Documents\Visual Studio 2010\Projects\XScript2IDE\XScriptLib\obj\Release\XScriptLib.csprojResolveAssemblyReference.cache
+C:\Users\ariklekar\Documents\Visual Studio 2010\Projects\XScript2IDE\XScriptLib\obj\Release\XScriptLib.dll
+C:\Users\ariklekar\Documents\Visual Studio 2010\Projects\XScript2IDE\XScriptLib\obj\Release\XScriptLib.pdb
+C:\Users\ariklekar\Documents\Visual Studio 2010\Projects\XScriptLib\bin\Release\XScriptLib.dll
+C:\Users\ariklekar\Documents\Visual Studio 2010\Projects\XScriptLib\bin\Release\XScriptLib.pdb
+C:\Users\ariklekar\Documents\Visual Studio 2010\Projects\XScriptLib\obj\Release\XScriptLib.csprojResolveAssemblyReference.cache
+C:\Users\ariklekar\Documents\Visual Studio 2010\Projects\XScriptLib\obj\Release\XScriptLib.dll
+C:\Users\ariklekar\Documents\Visual Studio 2010\Projects\XScriptLib\obj\Release\XScriptLib.pdb
+F:\XScriptLib\bin\Release\XScriptLib.dll
+F:\XScriptLib\bin\Release\XScriptLib.pdb
+F:\XScriptLib\obj\Release\ResolveAssemblyReference.cache
+F:\XScriptLib\obj\Release\XScriptLib.dll
+F:\XScriptLib\obj\Release\XScriptLib.pdb
+E:\XScriptLib\obj\Release\XScriptLib.csprojResolveAssemblyReference.cache
+E:\XScriptLib\obj\Release\XScriptLib.dll
+E:\XScriptLib\bin\Release\XScriptLib.dll
+E:\XScriptLib\bin\Release\XScriptLib.pdb
+E:\XScriptLib\obj\Release\XScriptLib.pdb
